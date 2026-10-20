@@ -37,3 +37,5 @@ regions, and in-demand skills.
 ## 📷 Dashboard
 
 ![Power BI Dashboard](images/dashboard.png)
+<img width="1245" height="682" alt="image" src="https://github.com/user-attachments/assets/68077bfe-5d3d-4e8f-821f-499445e508d6" />
+
